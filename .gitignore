@@ -1,0 +1,15 @@
+.DS_Store
+.vscode/
+.idea/
+node_modules/
+.env
+*.log
+*.lock
+build/
+pubspec.lock
+
+# Flutter
+**/build/
+**/.dart_tool/
+**/.flutter-plugins
+**/.flutter-plugins-deps
